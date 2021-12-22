@@ -93,4 +93,4 @@ Ensure that you see how these tests are set up so you know how your code is expe
 
 ------------------------------------------ FIN -------------------------------------------
 
-![Screenshot][output-pro.pgm]
+![Screenshot](output-pro.pgm)
