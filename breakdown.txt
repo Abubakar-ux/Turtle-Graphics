@@ -1,0 +1,30 @@
+----------- PART 1 ----------------
+newCmdNode()            -  5 marks
+countCommands()         -  5 marks
+insertCommand()         - 10 marks
+insertCommandBefore()   - 10 marks
+updateCommand()         - 10 marks
+deleteCommand()         - 10 marks
+deleteCommandList()     -  5 marks
+printCommandList()      -  5 marks
+queryByCommand()        -  5 marks
+run()                   - 15 marks    
+- - - - - - - - - - - - - - - - - -
+Total for Part 1        - 80 marks
+
+
+----------- PART 2 ----------------
+newCmdNode()            - (------)
+insertCommandLoop()     -  2 marks
+countCommands()         -  3 marks
+deleteCommandList()     -  5 marks
+printCommandList()      -  5 marks
+queryByCommand()        -  5 marks
+run()                   - 10 marks
+- - - - - - - - - - - - - - - - - -
+Total for Part 2        - 30 marks
+
+
+-----------------------------------
+Total marks (automarked section):
+               80 + 30 = 110 marks

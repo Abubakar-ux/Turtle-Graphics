@@ -1,0 +1,8 @@
+penup
+forward 100
+right
+forward 100
+pendown
+loop 4
+  forward 300
+  left
