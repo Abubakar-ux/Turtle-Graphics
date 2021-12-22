@@ -92,3 +92,5 @@ The Part2_driver.c file contains test cases for all of the functions you will be
 Ensure that you see how these tests are set up so you know how your code is expected to run.
 
 ------------------------------------------ FIN -------------------------------------------
+
+![Screenshot][output-pro.pgm]
